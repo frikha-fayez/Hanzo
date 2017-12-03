@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialogflow-unity-client-master", "dialogflow-unity-client-master.csproj", "{1204C082-9295-85D7-9159-EE28FDAC828C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialogflow-unity-client-master.Plugins", "dialogflow-unity-client-master.Plugins.csproj", "{C0407A38-0A9A-BD2D-2D3F-944962DF43BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialogflow-unity-client-master.Editor", "dialogflow-unity-client-master.Editor.csproj", "{A3B53BD7-8B89-97CC-3F41-6E7789AB9EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1204C082-9295-85D7-9159-EE28FDAC828C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1204C082-9295-85D7-9159-EE28FDAC828C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1204C082-9295-85D7-9159-EE28FDAC828C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1204C082-9295-85D7-9159-EE28FDAC828C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0407A38-0A9A-BD2D-2D3F-944962DF43BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0407A38-0A9A-BD2D-2D3F-944962DF43BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0407A38-0A9A-BD2D-2D3F-944962DF43BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0407A38-0A9A-BD2D-2D3F-944962DF43BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B53BD7-8B89-97CC-3F41-6E7789AB9EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B53BD7-8B89-97CC-3F41-6E7789AB9EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B53BD7-8B89-97CC-3F41-6E7789AB9EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B53BD7-8B89-97CC-3F41-6E7789AB9EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

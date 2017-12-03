@@ -1,0 +1,14 @@
+Testing/bin
+Testing/obj
+*.meta
+obj
+Library/metadata
+Library/ScriptAssemblies
+Temp
+Builds
+Library/ShaderCache
+Library/shadercompiler*.log
+ios-build
+*.apk
+api-ai-unity-example.userprefs
+api-ai-unity-example.v12.suo
